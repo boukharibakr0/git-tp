@@ -1,4 +1,5 @@
-There is 2 lines in this file.
+there is 4 lines in 2files
 Add my name is Bakr
-there is 12 lines in 2files
+my name is abderrazzak
 du n'importe quoi
+
