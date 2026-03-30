@@ -1,6 +1,5 @@
-There is 6 lines in this file.
-HI my name is MOUAD
-LOREMM IPSUM BLA BLA 123 LETS GO
+there is 4 lines in 2files
 Add my name is Bakr
 my name is abderrazzak
 du n'importe quoi
+
