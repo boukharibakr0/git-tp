@@ -4,14 +4,12 @@ LOREMM IPSUM BLA BLA 123 LETS GO
 Add my name is Bakr
 my name is abderrazzak
 du n'importe quoi
-<<<<<<< HEAD
 bonsoir a tous 
 there is 8 lines in this file
-=======
 AAAAA
 BBBBB
 CCCCC
 DDDDD
 EEEEE
 FFFFF
->>>>>>> master
+
