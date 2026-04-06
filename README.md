@@ -4,3 +4,5 @@ my name is abderrazzak
 
 There is 4 lines in this file.
 
+nouvelle de la journee.
+
